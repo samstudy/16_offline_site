@@ -1,7 +1,7 @@
 # New Site Template
 
 ____
-> **Was localized ufeful css and js templates  **
+> **Was localized ufeful css and js templates**
 
 This [page](https://samstudy.github.io/16_offline_site/index) is invoking all css and js from static folder
 
